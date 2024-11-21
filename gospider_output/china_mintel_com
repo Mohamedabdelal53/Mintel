@@ -1,0 +1,401 @@
+[robots] - https://china.mintel.com/wp-admin/
+[robots] - https://china.mintel.com/wp-admin/admin-ajax.php
+[robots] - https://china.mintel.com/app/uploads/
+[robots] - https://china.mintel.com/app/themes/mintel/style.css
+[robots] - https://china.mintel.com/app/themes/mintel/css/
+[robots] - https://china.mintel.com/app/themes/mintel/js/
+[robots] - https://china.mintel.com/app/themes/mintel/images/
+[robots] - https://china.mintel.com/app/themes/mintel/fonts/
+[robots] - https://china.mintel.com/wp-includes/js/
+[robots] - https://china.mintel.com/xmlrpc.php
+[robots] - https://china.mintel.com/wp-
+[robots] - https://china.mintel.com/trackback/
+[robots] - https://china.mintel.com/*?wptheme=
+[robots] - https://china.mintel.com/*?comments=
+[robots] - https://china.mintel.com/*?replytocom
+[robots] - https://china.mintel.com/comment-page-
+[robots] - https://china.mintel.com/?s=
+[robots] - https://china.mintel.com/info/
+[robots] - https://china.mintel.com/mintels-trends-and-innovation-insight-workshops-gnpd
+[robots] - https://china.mintel.com/mintels-trends-and-innovation-insight-workshops-mfd
+[robots] - https://china.mintel.com/webinar-food-and-drink-trends-2017-emea
+[robots] - https://china.mintel.com/*/thank-you
+[robots] - https://china.mintel.com/*/feed
+[url] - [code-403] - https://china.mintel.com/app/uploads/
+[url] - [code-200] - https://china.mintel.com
+[subdomains] - https://china.mintel.com
+[subdomains] - https://insights.mintel.com
+[subdomains] - https://www.mintel.com
+[subdomains] - https://es.mintel.com
+[subdomains] - https://ita.mintel.com
+[subdomains] - https://japan.mintel.com
+[subdomains] - https://polska.mintel.com
+[subdomains] - https://kr.mintel.com
+[subdomains] - https://brasil.mintel.com
+[subdomains] - https://thai.mintel.com
+[subdomains] - https://clients.mintel.com
+[href] - https://china.mintel.com/app/smush-webp/2024/09/CN_Mintel_Product_Long-2000x847.jpg.webp
+[href] - https://china.mintel.com/
+[href] - https://insights.mintel.com
+[href] - https://china.mintel.com/feed/
+[href] - https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.css?ver=1.19.0
+[href] - https://china.mintel.com/app/smush-webp/2024/08/mintel-favico-70x70.png.webp
+[href] - https://china.mintel.com/app/smush-webp/2024/08/mintel-favico-300x300.png.webp
+[href] - https://www.mintel.com/
+[href] - https://www.mintel.com/de/
+[href] - https://es.mintel.com/
+[href] - https://www.mintel.com/fr/
+[href] - https://ita.mintel.com/
+[href] - https://japan.mintel.com/
+[href] - https://polska.mintel.com/
+[href] - https://kr.mintel.com/
+[href] - https://brasil.mintel.com/
+[href] - https://thai.mintel.com/
+[href] - https://china.mintel.com/insights/consumer-research/global-consumer-trends/
+[href] - https://china.mintel.com/insights/food-and-drink/global-food-and-drink-trends/
+[href] - https://china.mintel.com/insights/beauty-and-personal-care/global-beauty-and-personal-care-trends/
+[href] - https://china.mintel.com/about/
+[href] - https://china.mintel.com
+[href] - https://china.mintel.com/press-centre/
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - http://clients.mintel.com/
+[href] - https://china.mintel.com/insights/
+[href] - https://china.mintel.com/insights/advertising-and-marketing/
+[href] - https://china.mintel.com/insights/automotive/
+[href] - https://china.mintel.com/insights/beauty-and-personal-care/
+[href] - https://china.mintel.com/insights/education-and-libraries/
+[href] - https://china.mintel.com/insights/financial-services/
+[href] - https://china.mintel.com/insights/food-and-drink/
+[href] - https://china.mintel.com/insights/household/
+[href] - https://china.mintel.com/insights/ingredients-flavours-and-fragrances/
+[href] - https://china.mintel.com/insights/packaging/
+[href] - https://china.mintel.com/insights/retail/
+[href] - https://china.mintel.com/insights/technology/
+[href] - https://china.mintel.com/insights/travel-and-tourism/
+[href] - https://china.mintel.com/solutions/
+[href] - https://china.mintel.com/solutions/consumers/
+[href] - https://china.mintel.com/solutions/innovation/
+[href] - https://china.mintel.com/solutions/markets/
+[href] - https://china.mintel.com/solutions/trends/
+[href] - https://china.mintel.com/solutions/competitors/
+[href] - https://china.mintel.com/insights/articles/
+[href] - https://china.mintel.com/insights/downloads/
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://china.mintel.com/pricing/
+[href] - https://china.mintel.com/products/leap-market-intelligence-ai/
+[href] - https://china.mintel.com/products/gnpd/
+[href] - https://china.mintel.com/products/trends/
+[href] - https://china.mintel.com/mintel-reports-china/
+[href] - https://china.mintel.com/products/market-sizes/
+[href] - https://china.mintel.com/products/consulting/
+[href] - https://china.mintel.com/products/global-consumer/
+[href] - https://china.mintel.com/products/
+[href] - https://china.mintel.com/insights/consumer-research/
+[href] - https://china.mintel.com/insights/consumer-research/sustainability-outlook/
+[href] - https://china.mintel.com/insights/beauty-and-personal-care/innovation-in-beauty-personal-care-household/
+[href] - https://china.mintel.com/insights/food-and-drink/innovation-in-food-drink/
+[href] - https://china.mintel.com/case-studies/pucheng-dairy/
+[href] - https://china.mintel.com/case-studies/bawei/
+[href] - https://china.mintel.com/case-studies/basf/
+[href] - https://china.mintel.com/case-studies/agrana/
+[href] - https://china.mintel.com/case-studies/insead/
+[href] - https://china.mintel.com/case-studies/amway/
+[href] - https://china.mintel.com/case-studies/dupont-nutrition-biosciences/
+[href] - https://china.mintel.com/case-studies/tmall/
+[href] - https://china.mintel.com/case-studies/ruder-finn-asia/
+[href] - https://china.mintel.com/case-studies/
+[href] - https://china.mintel.com/solutions/consumers
+[href] - https://china.mintel.com/solutions/innovation
+[href] - https://china.mintel.com/solutions/markets
+[href] - https://china.mintel.com/solutions/trends
+[href] - https://china.mintel.com/solutions/competitors
+[href] - https://china.mintel.com/insights/retail/opportunities-for-discount-retail-industry/
+[href] - https://china.mintel.com/insights/beauty-and-personal-care/korean-beauty-trends-continue-to-capture-consumers-in-apac/
+[href] - https://www.mintel.com/careers/current-openings/?lang_notify=zh_CN
+[href] - https://www.mintel.com/careers/career-development/?lang_notify=zh_CN
+[href] - https://www.mintel.com/careers/our-impact/?lang_notify=zh_CN
+[href] - https://china.mintel.com/products/ingredientscape-ai/
+[href] - https://china.mintel.com/products/data-integration/
+[href] - https://china.mintel.com/products/food-and-drink-platform/
+[href] - https://china.mintel.com/products/beauty-and-personal-care-platform/
+[href] - https://china.mintel.com/products/field-services/
+[href] - https://www.mintel.com/careers/?lang_notify=zh_CN
+[href] - https://www.mintel.com/corporate-social-responsibility/?lang_notify=zh_CN
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://www.mintel.com/cookie-policy/?lang_notify=zh_CN
+[href] - https://www.mintel.com/legal/?lang_notify=zh_CN
+[href] - https://www.mintel.com/privacy-policy/?lang_notify=zh_CN
+[href] - https://www.mintel.com/terms-of-use/?lang_notify=zh_CN
+[href] - https://mp.weixin.qq.com/s/FCGE-CleEDRC8LVoPBwRDQ
+[href] - https://www.xiaohongshu.com/user/profile/6267ab7300000000210290ee
+[href] - https://bit.ly/47j3jd3
+[href] - https://beian.miit.gov.cn/
+[href] - https://china.mintel.com/sitemap.xml
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://china.mintel.com/contact/
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://clients.mintel.com/
+[javascript] - https://china.mintel.com/app/cache/min/1/app/themes/mintel-apac/src/js/baidu-analytics.js?ver=1729261037
+[javascript] - https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038
+[javascript] - https://china.mintel.com/app/cache/min/1/rs/193-JGD-439/images/teknkl-formsplus-core-1.0.8.js?ver=1729261038
+[javascript] - https://china.mintel.com/app/cache/min/1/rs/193-JGD-439/images/teknkl-simpledto-2.0.4.js?ver=1729261039
+[javascript] - https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0
+[javascript] - https://china.mintel.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+[url] - [code-403] - https://china.mintel.com/wp-includes/js/
+[url] - [code-400] - https://china.mintel.com/wp-admin/admin-ajax.php
+[url] - [code-200] - https://china.mintel.com/?s=
+[href] - https://fonts.gstatic.com
+[href] - https://china.mintel.com/search/feed/rss2/
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://www.mintel.com/careers/?lang_notify=zh_CN
+[href] - https://www.mintel.com/corporate-social-responsibility/?lang_notify=zh_CN
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://www.mintel.com/cookie-policy/?lang_notify=zh_CN
+[href] - https://www.mintel.com/legal/?lang_notify=zh_CN
+[href] - https://www.mintel.com/privacy-policy/?lang_notify=zh_CN
+[href] - https://www.mintel.com/terms-of-use/?lang_notify=zh_CN
+[href] - https://mp.weixin.qq.com/s/FCGE-CleEDRC8LVoPBwRDQ
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[href] - https://www.mintel.com/insights/events/?lang_notify=zh_CN
+[javascript] - https://china.mintel.com/app/themes/mintel-apac/src/js/baidu-analytics.js?ver=1.19.0
+[javascript] - https://insights.mintel.com/js/forms2/js/forms2.min.js?ver=6.7
+[javascript] - https://insights.mintel.com/rs/193-JGD-439/images/teknkl-formsplus-core-1.0.8.js?ver=6.7
+[javascript] - https://insights.mintel.com/rs/193-JGD-439/images/teknkl-simpledto-2.0.4.js?ver=6.7
+[url] - [code-200] - https://china.mintel.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+[url] - [code-200] - https://china.mintel.com/app/cache/min/1/app/themes/mintel-apac/src/js/baidu-analytics.js?ver=1729261037
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/app/themes/mintel-apac/src/js/baidu-analytics.js?ver=1729261037] - https://hm.baidu.com/hm.js?
+[linkfinder] - https://hm.baidu.com/hm.js?
+[url] - [code-200] - https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./jquery.build.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/jquery.build.js
+[linkfinder] - https://china.mintel.com/jquery.build.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - text/css
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/text/css
+[linkfinder] - https://china.mintel.com/text/css
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./decode
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/decode
+[linkfinder] - https://china.mintel.com/decode
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./encode
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/encode
+[linkfinder] - https://china.mintel.com/encode
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./sha
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/sha
+[linkfinder] - https://china.mintel.com/sha
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./sha1
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/sha1
+[linkfinder] - https://china.mintel.com/sha1
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./sha224
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/sha224
+[linkfinder] - https://china.mintel.com/sha224
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./sha256
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/sha256
+[linkfinder] - https://china.mintel.com/sha256
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./sha384
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/sha384
+[linkfinder] - https://china.mintel.com/sha384
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./sha512
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/sha512
+[linkfinder] - https://china.mintel.com/sha512
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./hash
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/hash
+[linkfinder] - https://china.mintel.com/hash
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./jquery.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/jquery.js
+[linkfinder] - https://china.mintel.com/jquery.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./comparators.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/comparators.js
+[linkfinder] - https://china.mintel.com/comparators.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/fieldhelpers.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/fieldhelpers.js
+[linkfinder] - https://china.mintel.com/fields/fieldhelpers.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ../jquery.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/jquery.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fieldHelpers.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fieldHelpers.js
+[linkfinder] - https://china.mintel.com/fieldHelpers.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ../modernizr.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/modernizr.js
+[linkfinder] - https://china.mintel.com/modernizr.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./validation.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/validation.js
+[linkfinder] - https://china.mintel.com/validation.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./measure.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/measure.js
+[linkfinder] - https://china.mintel.com/measure.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./cookiehelper.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/cookiehelper.js
+[linkfinder] - https://china.mintel.com/cookiehelper.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./tokenTemplate.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/tokenTemplate.js
+[linkfinder] - https://china.mintel.com/tokenTemplate.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./changeManager.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/changeManager.js
+[linkfinder] - https://china.mintel.com/changeManager.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./urlhelper.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/urlhelper.js
+[linkfinder] - https://china.mintel.com/urlhelper.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./prefillcoercer.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/prefillcoercer.js
+[linkfinder] - https://china.mintel.com/prefillcoercer.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./iframeproxy.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/iframeproxy.js
+[linkfinder] - https://china.mintel.com/iframeproxy.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./safelog.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/safelog.js
+[linkfinder] - https://china.mintel.com/safelog.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - sha.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/sha.js
+[linkfinder] - https://china.mintel.com/sha.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputRadio.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputRadio.js
+[linkfinder] - https://china.mintel.com/fields/inputRadio.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputDate.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputDate.js
+[linkfinder] - https://china.mintel.com/fields/inputDate.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputEmail.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputEmail.js
+[linkfinder] - https://china.mintel.com/fields/inputEmail.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputCheckbox.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputCheckbox.js
+[linkfinder] - https://china.mintel.com/fields/inputCheckbox.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/select.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/select.js
+[linkfinder] - https://china.mintel.com/fields/select.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputRange.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputRange.js
+[linkfinder] - https://china.mintel.com/fields/inputRange.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputText.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputText.js
+[linkfinder] - https://china.mintel.com/fields/inputText.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputUrl.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputUrl.js
+[linkfinder] - https://china.mintel.com/fields/inputUrl.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputTel.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputTel.js
+[linkfinder] - https://china.mintel.com/fields/inputTel.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/inputNumber.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/inputNumber.js
+[linkfinder] - https://china.mintel.com/fields/inputNumber.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/textarea.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/textarea.js
+[linkfinder] - https://china.mintel.com/fields/textarea.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/currency.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/currency.js
+[linkfinder] - https://china.mintel.com/fields/currency.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - text/javascript
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/text/javascript
+[linkfinder] - https://china.mintel.com/text/javascript
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - https://js.hcaptcha.com/1/api.js?onload=captchaCallback
+[linkfinder] - https://js.hcaptcha.com/1/api.js?onload=captchaCallback
+[linkfinder] - https://js.hcaptcha.com/1/api.js?onload=captchaCallback
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - https://www.google.com/recaptcha/api.js?onload=captchaCallback
+[linkfinder] - https://www.google.com/recaptcha/api.js?onload=captchaCallback
+[linkfinder] - https://www.google.com/recaptcha/api.js?onload=captchaCallback
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - https://policies.google.com/privacy
+[linkfinder] - https://policies.google.com/privacy
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - https://policies.google.com/terms
+[linkfinder] - https://policies.google.com/terms
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./form.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/form.js
+[linkfinder] - https://china.mintel.com/form.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./shimsham.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/shimsham.js
+[linkfinder] - https://china.mintel.com/shimsham.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./modernizr.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/modernizr.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./color.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/color.js
+[linkfinder] - https://china.mintel.com/color.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - /js/forms2/
+[linkfinder] - https://china.mintel.com/js/forms2/
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - /index.php/leadCapture/save2
+[linkfinder] - https://china.mintel.com/index.php/leadCapture/save2
+[linkfinder] - https://china.mintel.com/index.php/leadCapture/save2
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - /index.php/form/XDFrame
+[linkfinder] - https://china.mintel.com/index.php/form/XDFrame
+[linkfinder] - https://china.mintel.com/index.php/form/XDFrame
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - /index.php/form/getForm?munchkinId=
+[linkfinder] - https://china.mintel.com/index.php/form/getForm?munchkinId=
+[linkfinder] - https://china.mintel.com/index.php/form/getForm?munchkinId=
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./modal.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/modal.js
+[linkfinder] - https://china.mintel.com/modal.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - /index.php/form/getKnownLead?
+[linkfinder] - https://china.mintel.com/index.php/form/getKnownLead?
+[linkfinder] - https://china.mintel.com/index.php/form/getKnownLead?
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - css/forms2.css
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/css/forms2.css
+[linkfinder] - https://china.mintel.com/css/forms2.css
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - polyfills/placeholder/placeholder.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/polyfills/placeholder/placeholder.js
+[linkfinder] - https://china.mintel.com/polyfills/placeholder/placeholder.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - polyfills/placeholder/placeholder.css
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/polyfills/placeholder/placeholder.css
+[linkfinder] - https://china.mintel.com/polyfills/placeholder/placeholder.css
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - polyfills/datepicker/datepicker.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/polyfills/datepicker/datepicker.js
+[linkfinder] - https://china.mintel.com/polyfills/datepicker/datepicker.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - polyfills/datepicker/datepicker.css
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/polyfills/datepicker/datepicker.css
+[linkfinder] - https://china.mintel.com/polyfills/datepicker/datepicker.css
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - polyfills/range/range.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/polyfills/range/range.js
+[linkfinder] - https://china.mintel.com/polyfills/range/range.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - polyfills/range/range.css
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/polyfills/range/range.css
+[linkfinder] - https://china.mintel.com/polyfills/range/range.css
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - polyfills/maxlength/maxlength.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/polyfills/maxlength/maxlength.js
+[linkfinder] - https://china.mintel.com/polyfills/maxlength/maxlength.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - text/xml
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/text/xml
+[linkfinder] - https://china.mintel.com/text/xml
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - text/plain
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/text/plain
+[linkfinder] - https://china.mintel.com/text/plain
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - text/html
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/text/html
+[linkfinder] - https://china.mintel.com/text/html
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - application/x-www-form-urlencoded
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/application/x-www-form-urlencoded
+[linkfinder] - https://china.mintel.com/application/x-www-form-urlencoded
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./yepnope.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/yepnope.js
+[linkfinder] - https://china.mintel.com/yepnope.js
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/js/forms2/js/forms2.min.js?ver=1729261038] - ./fields/fieldHelpers.js
+[linkfinder] - https://china.mintel.com/app/cache/min/1/js/forms2/js/fields/fieldHelpers.js
+[linkfinder] - https://china.mintel.com/fields/fieldHelpers.js
+[url] - [code-200] - https://china.mintel.com/app/cache/min/1/rs/193-JGD-439/images/teknkl-formsplus-core-1.0.8.js?ver=1729261038
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/rs/193-JGD-439/images/teknkl-formsplus-core-1.0.8.js?ver=1729261038] - /..
+[url] - [code-200] - https://china.mintel.com/app/cache/min/1/rs/193-JGD-439/images/teknkl-simpledto-2.0.4.js?ver=1729261039
+[linkfinder] - [from: https://china.mintel.com/app/cache/min/1/rs/193-JGD-439/images/teknkl-simpledto-2.0.4.js?ver=1729261039] - application/xml
+[linkfinder] - https://china.mintel.com/app/cache/min/1/rs/193-JGD-439/images/application/xml
+[linkfinder] - https://china.mintel.com/application/xml
+[url] - [code-200] - https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0] - /js/forms2/css/
+[linkfinder] - https://china.mintel.com/js/forms2/css/
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0] - application/json
+[linkfinder] - https://china.mintel.com/app/themes/mintel-apac/dist/application/json
+[linkfinder] - https://china.mintel.com/application/json
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0] - /dtp-2.0.0.html
+[linkfinder] - https://china.mintel.com/dtp-2.0.0.html
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0] - https://open.spotify.com/episode/
+[linkfinder] - https://open.spotify.com/episode/
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0] - https://open.spotify.com/embed/episode/
+[linkfinder] - https://open.spotify.com/embed/episode/
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0] - mustache.js
+[linkfinder] - https://china.mintel.com/app/themes/mintel-apac/dist/mustache.js
+[linkfinder] - https://china.mintel.com/mustache.js
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/dist/main-bundle.js?ver=1.19.0] - https://search-api.swiftype.com/api/v1/public/engines/search.json
+[linkfinder] - https://search-api.swiftype.com/api/v1/public/engines/search.json
+[url] - [code-200] - https://insights.mintel.com/rs/193-JGD-439/images/teknkl-simpledto-2.0.4.js?ver=6.7
+[url] - [code-200] - https://insights.mintel.com/js/forms2/js/forms2.js?ver=6.7
+[url] - [code-200] - https://insights.mintel.com/js/forms2/js/forms2.min.js?ver=6.7
+[url] - [code-200] - https://china.mintel.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.js
+[url] - [code-200] - https://insights.mintel.com/rs/193-JGD-439/images/teknkl-formsplus-core-1.0.8.js?ver=6.7
+[url] - [code-200] - https://china.mintel.com/app/themes/mintel-apac/src/js/baidu-analytics.js?ver=1.19.0
+[linkfinder] - [from: https://china.mintel.com/app/themes/mintel-apac/src/js/baidu-analytics.js?ver=1.19.0] - https://hm.baidu.com/hm.js?
+[url] - [code-200] - https://hm.baidu.com/hm.js?
+[url] - [code-200] - https://js.hcaptcha.com/1/api.js?onload=captchaCallback
+[url] - [code-200] - https://www.google.com/recaptcha/api.js?onload=captchaCallback
